@@ -2,7 +2,9 @@ Anar Babashov
 Miami, Florida
 (323)-740-5800
 anarbabashov.it@gmail.com
-Linkedin | Github | Website
+[Linkedin](https://www.linkedin.com/in/anar-babashov/)
+[Github](https://github.com/anarbabashov)
+[Website](https://anarbabashov.com/)
 
 FULL STACK SOFTWARE ENGINEER
 

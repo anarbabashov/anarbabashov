@@ -1,83 +1,125 @@
-Anar Babashov
-Miami, Florida
-(323)-740-5800
-anarbabashov.it@gmail.com
-[Linkedin](https://www.linkedin.com/in/anar-babashov/) |
-[Github](https://github.com/anarbabashov) |
+# Anar Babashov
+
+Miami, Florida  
+(323)-740-5800  
+anarbabashov.it@gmail.com  
+
+[LinkedIn](https://www.linkedin.com/in/anar-babashov/) |  
+[GitHub](https://github.com/anarbabashov) |  
 [Website](https://anarbabashov.com/)
 
-FULL STACK SOFTWARE ENGINEER
+---
 
-Bringing over a decade of IT experience in designing and implementing web applications and microservices. Proven track record of managing and delivering complex projects across eCommerce, Streaming, FinTech, EdTech, and AI industries. Passionate about leveraging modern front-end and back-end technologies to build scalable, high-performance applications and exceptional user experiences.
+## Full Stack Software Engineer
 
-Areas of Expertise:
-Front-End Development: React (Next.js, Redux, MobX), React Native (Expo), Vue (Nuxt.js); TypeScript, JavaScript, Tailwind, SCSS, Material UI.
-Backend & APIs: Node.js (Express), Python (FastAPI), PHP (MODX, Wordpress); REST/GraphQL APIs, Redis caching, WebSocket/WebRTC applications.
-Databases & ORM: PostgreSQL, MongoDB, Firebase; Prisma, Drizzle. 
-Architecture & DevOps: Microservices, Serverless, Event-driven systems; CI/CD automation; management and deployment on AWS, Cloudflare, Vercel, Heroku, and containerized with Docker.
-Testing & Performance: Jest, RTL, Cypress, performance tuning (Lighthouse, Web Vitals, WCAG, SEO).
-Shopify Development: Custom Theme and Apps Development, A/B testing (VWO, Optimizely).
-Leadership & Collaboration: Agile team leadership, mentoring, code reviews (Github, GitLab), cross-functional coordination.
-AI/ML: integration AI/ML solutions into applications (OpenAI, Hugging Face, LangChain, RAG pipelines).
+Over a decade of experience designing and implementing web applications and distributed systems across eCommerce, Streaming, FinTech, EdTech, and AI industries. Strong track record of delivering scalable, high-performance solutions, leading cross-functional teams, and shipping production-ready features across complex ecosystems.
 
-Experience:
+---
 
-Full Stack Developer
-America's Test Kitchen (Culinary Media & Education Company)                                             June 2024 - Present
-Developed features across monorepo ecosystem with Next.js 15, SWR, Redux, TypeScript, and React Native (Expo), delivering production code for 5+ apps across 3 brands.
-Led Strapi v4 to v5 CMS migration with zero-downtime, migrating 100+ content types via backward-compatible middleware while eliminating admin crashes.
-Engineered cached API endpoints with Redis, reducing response times to sub-2 seconds and built integration test suites achieving 90%+ success rates.
-Implemented SSG with ISR and on-demand revalidation for thousands of recipe/article pages, enabling instant content updates without full site rebuilds.
-Integrated Algolia search across web and mobile with real-time filtering and pagination, enhancing content discoverability for 1M+ active users.
+## Areas of Expertise
 
-Full Stack Developer
-FriendFinder Networks Inc. (Social Networking & Digital Entertainment Company)             Apr 2024 - Feb 2025
-Delivered enterprise streaming apps in a micro-frontend architecture using React (Next.js), TypeScript, WebSockets, Node.js, and contributing to the development of a customer support dashboard built with Python (Django).
-Built real-time tipping, token purchases, and chat features, boosting user engagement and revenue flow.
-Optimized frontend performance by 25% through memoization, UI modularization, and render efficiency.
-Automated moderation and reporting dashboard, cutting manual investigation time by 50%.
+- **Front-End**: React (Next.js, Redux, MobX), React Native (Expo), Vue (Nuxt.js), TypeScript, JavaScript, Tailwind, SCSS, MUI  
+- **Backend & APIs**: Node.js (Express), Python (FastAPI), PHP (MODX, WordPress), REST/GraphQL, Redis, WebSocket, WebRTC  
+- **Databases & ORM**: PostgreSQL, MongoDB, Firebase, Prisma, Drizzle  
+- **Architecture & DevOps**: Microservices, Serverless, Event-driven systems, CI/CD, AWS, Cloudflare, Vercel, Heroku, Docker  
+- **Testing & Performance**: Jest, RTL, Cypress, Lighthouse, Web Vitals, WCAG, SEO  
+- **Shopify**: Custom themes, apps, API integrations, A/B testing (VWO, Optimizely)  
+- **Leadership**: Agile team leadership, mentoring, code reviews, cross-functional collaboration  
+- **AI/ML**: Integrating LLMs and ML pipelines (OpenAI, Hugging Face, LangChain, RAG)
 
-Senior UI Engineer
-Anatta Design Inc. (Enterprise-Focused eCommerce Development Agency) 	                         Apr 2022 - Apr 2024                                                          
-Engineered a high-traffic eCommerce PWA for a $2B+ apparel brand using Vue 3 (Nuxt.js) and Shopify API.
-Built 40+ reusable UI components, accelerating feature delivery and improving conversion rates.
-Created “Pack Builder” customization feature, increasing average order value (AOV).
-Reduced page load times under 2s by optimizing Core Web Vitals via async loading and caching.
+---
 
-Full Stack Developer
-Plaito (AI-Powered Personalized Learning Startup) 	                                                        May 2021 - Mar 2022                                                          
-Developed AI-powered tutoring platform with ChatGPT API, Next.js, Node.js, tRPC, and Supabase.
-Designed prompt optimization system, improving AI response quality and learning outcomes.
-Built Chrome extension from concept to production, expanding platform accessibility.
-Contributed to the React Native mobile app development, supporting core features and ensuring consistency with the web platform.
+## Experience
 
-Full Stack Developer
-Oppizi (Data-Driven Offline Marketing Platform)                                                                        Apr 2020 - Apr 2021                                                                 
-Built web-based flyer editor (React/Redux, Node.js, MongoDB), enabling customers to create professional marketing materials.
-Designed and deployed an efficient serverless AWS architecture using DynamoDB, API Gateway, AWS Lambda, and CloudFront, ensuring scalability, cost optimization, and high availability.
-Migrated legacy services to GraphQL, reducing inter-service calls and improving API efficiency.
+### **Full Stack Developer — America’s Test Kitchen**  
+*Culinary Media & Education Company*  
+**June 2024 – Present**
 
-Web Developer
-Atton Institute (Professional Training & Development Courses Startup)                                  Feb 2017 - Dec 2019
-Developed training platform (PHP, MODX, WordPress) with dashboards, course listings, and user role management.
-Built comprehensive user management system with role-based dashboards, course listings, and data submission flows improving user engagement.
-Created and maintained supporting digital assets including landing pages, email templates.
+- Contributed to monorepo (5+ apps, 3 brands) using Next.js 15, SWR, Redux, TypeScript, React Native.
+- Led Strapi v4 to v5 CMS migration with 100+ content types and zero downtime.
+- Built cached Redis APIs reducing response times to <2s and achieving 90%+ test suite success.
+- Implemented ISR/SSG and on-demand revalidation for thousands of pages.
+- Integrated Algolia search across web and mobile, improving discoverability for 1M+ users.
 
-React Developer
-GoodX Finance Network (All-in-One Crypto Wallet Platform)                                                Mar 2016 - Jan 2017                                             
-Built cryptocurrency wallet and trading web app with React, Redux, and WebSockets, enabling real-time trading features.
-Implemented SPA with React Router, lazy loading, and code splitting, improving performance and UX.
-Migrated codebase from class-based to functional components with React Hooks, boosting maintainability and development speed.
+---
 
-Frontend Developer
-Trionika (EdTech & FinTech Performance Marketing)                                                              Aug 2014 - Jan 2016
+### **Full Stack Developer — FriendFinder Networks Inc.**  
+*Social Networking & Digital Entertainment*  
+**Apr 2024 – Feb 2025**
 
-Developed and launched multiple lead-generation websites optimizing performance, SEO, and conversion strategies to maximize user acquisition and campaign effectiveness.
-Customized Bootstrap framework for pixel-perfect design implementation ensuring precise alignment with specifications and responsive user experience.
+- Built enterprise streaming apps with React, TypeScript, WebSockets, Node.js.
+- Developed real-time tipping, tokens, and chat systems driving engagement and revenue.
+- Improved frontend performance by 25% through memoization and UI optimization.
+- Reduced moderation workload by 50% with automated dashboards.
 
-Certifications & Education:
+---
 
-Node.js: Security, LinkedIn (2025)
-Node.js Advanced Concepts (V8, Express, MERN/PERN), Udemy (2025)
-Bachelor's degree in International Relations, Kyiv Slavonic University (2006 - 2010)
-Master’s degree in International Information Analysis, Kyiv Slavonic University (2010 - 2011)
+### **Senior UI Engineer — Anatta Design Inc.**  
+*Enterprise eCommerce Agency*  
+**Apr 2022 – Apr 2024**
+
+- Developed high-traffic PWA for a $2B+ apparel brand using Vue 3 (Nuxt) and Shopify API.
+- Built 40+ reusable components accelerating development and boosting conversions.
+- Created a “Pack Builder” feature increasing average order value.
+- Reduced page loads under 2s by optimizing Core Web Vitals.
+
+---
+
+### **Full Stack Developer — Plaito**  
+*AI-Powered Learning Startup*  
+**May 2021 – Mar 2022**
+
+- Built AI tutoring platform with ChatGPT API, Next.js, Node.js, tRPC, Supabase.
+- Created prompt optimization system improving AI accuracy.
+- Developed Chrome extension from MVP to production.
+- Contributed to React Native app for consistent cross-platform experience.
+
+---
+
+### **Full Stack Developer — Oppizi**  
+*Offline Marketing Platform*  
+**Apr 2020 – Apr 2021**
+
+- Built web flyer editor using React/Redux and Node.js.
+- Architected serverless infrastructure with DynamoDB, Lambda, API Gateway, CloudFront.
+- Migrated services to GraphQL improving API reliability and performance.
+
+---
+
+### **Web Developer — Atton Institute**  
+*Professional Training Startup*  
+**Feb 2017 – Dec 2019**
+
+- Built training platform using PHP/MODX/WordPress.
+- Delivered dashboards, course listings, user role systems.
+- Created landing pages, email templates, and supporting assets.
+
+---
+
+### **React Developer — GoodX Finance Network**  
+*Crypto Wallet Platform*  
+**Mar 2016 – Jan 2017**
+
+- Built real-time trading and wallet interface with React, Redux, WebSockets.
+- Implemented SPA routing, lazy loading, and code splitting.
+- Migrated from class components to React Hooks improving maintainability.
+
+---
+
+### **Frontend Developer — Trionika**  
+*EdTech & FinTech Performance Marketing*  
+**Aug 2014 – Jan 2016**
+
+- Built and launched lead-generation websites focused on SEO and conversion.
+- Customized Bootstrap for pixel-perfect responsive UI.
+
+---
+
+## Certifications & Education
+
+- Node.js: Security — LinkedIn, 2025  
+- Node.js Advanced Concepts — Udemy, 2025  
+- Bachelor’s in International Relations — Kyiv Slavonic University (2006–2010)  
+- Master’s in International Information Analysis — Kyiv Slavonic University (2010–2011)
+
+---

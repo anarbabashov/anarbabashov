@@ -33,7 +33,7 @@ Over a decade of experience designing and implementing web applications and dist
 
 ### **Full Stack Developer — America’s Test Kitchen**  
 *Culinary Media & Education Company*  
-**June 2024 – Present**
+**June 2025 – Present**
 
 - Contributed to monorepo (5+ apps, 3 brands) using Next.js 15, SWR, Redux, TypeScript, React Native.
 - Led Strapi v4 to v5 CMS migration with 100+ content types and zero downtime.

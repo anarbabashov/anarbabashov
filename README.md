@@ -4,8 +4,8 @@ Miami, Florida
 (323)-740-5800  
 anarbabashov.it@gmail.com  
 
-[LinkedIn](https://www.linkedin.com/in/anar-babashov/) |  
-[GitHub](https://github.com/anarbabashov) |  
+[LinkedIn](https://www.linkedin.com/in/anar-babashov/) |
+[GitHub](https://github.com/anarbabashov) |
 [Website](https://anarbabashov.com/)
 
 ---

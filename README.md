@@ -40,8 +40,7 @@
   ---
 
   📍 Miami, FL
-  🔗 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/) •
-  [Website](https://anarbabashov.com)
+  🔗 [LinkedIn](https://www.linkedin.com/in/anar-babashov/) • [Website](https://anarbabashov.com)
 
   Key changes:
   - Title → "Senior Software Engineer" + "CMS & MarTech" instead of "AI & Microservices"

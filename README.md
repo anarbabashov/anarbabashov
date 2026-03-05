@@ -2,7 +2,7 @@
   
 **Senior Software Engineer | Full Stack & AI Integration | Production Systems at Scale**       
                     
-10+ years building production web and mobile platforms across eCommerce, streaming, fintech, and  
+12 years building production web and mobile platforms across eCommerce, streaming, fintech, and  
 education. Now applying that foundation to AI-powered applications — LLMs, RAG pipelines, agentic 
 workflows, and intelligent automation. I work across the full development lifecycle: from database
  design and API architecture to frontend interfaces and cloud deployment.

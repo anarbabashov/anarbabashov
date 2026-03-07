@@ -19,11 +19,3 @@ Engineering
 
 Miami, FL
 [LinkedIn](https://www.linkedin.com/in/anar-babashov/) • [Website](https://anarbabashov.com)
-
-What changed:
-- 3x shorter — cut from ~30 lines to ~10
-- Title now includes "AI Integration" and "Full Stack"
-- Single paragraph covers both full-stack depth and AI direction
-- "Full development lifecycle" signals end-to-end capability
-- Separate AI/ML skills line shows the transition clearly
-- Removed all section headers and bullet lists — cleaner, faster to scan
